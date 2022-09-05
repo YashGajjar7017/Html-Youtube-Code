@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    border: 2px dotted black;
+    background-color: #444;
+}
+.main-title{
+    background-color: maroon; /*you can take any color...*/
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.list{
+    margin-left: 40%;
+    margin-right: 38%;
+    color: #fff;
+    font-size: 18px;
+}
+td:hover{
+    font-size: 20px;
+    transition: all 0.7s ease-in-out;
+}
